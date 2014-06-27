@@ -1,5 +1,17 @@
 # sgminer
 
+My first Github resp ... based on sgminer5 pre-release (https://github.com/sgminer-dev/sgminer/tree/v5_0)
+So i guess it must be able to compile and run in linux ...
+Made some improvements based on girino version so it should be slightly faster than the official miner
+
+If you satisfied, please donate (or not ... lol)
+
+    BTC: 1PooDihhNLcJLgMMm2yKKEpUX73w8HVMS2
+    LTC: LKTFuwzqxZoKiBb85kkfjnZ5zNW5oirH6A
+    DRK: XrV4UvmDBTptLNUTZ7NpLmWpxU1DeTCYmE
+    DOGE: DJ6dV9oBQjzjcbCHomjvNb9X3tejpJjdfY
+
+Thanks.
 
 ## Introduction
 
