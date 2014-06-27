@@ -4,7 +4,7 @@ My first Github resp ... based on sgminer5 pre-release (https://github.com/sgmin
 
 So i guess it must be able to compile and run in linux ... works better on 14.6 driver
 
-Made some improvements based on girino version so it should be slightly faster than the official miner
+Made some improvements based on girino version so it should be slightly faster
 
 If you satisfied, please donate (or not ... lol)
 
