@@ -95,8 +95,8 @@ If needed, place include headers (`*.h` files) from `ADL_SDK_*<VERSION>*.zip` in
 
 Then:
 
-    autoreconf -i
-    CFLAGS="-O2 -Wall -march=native" ./configure <options>
+    sh autogen.sh
+    CFLAGS="-O2 -Wall" ./configure
     make
 
 To compile a version that can be used accross machines, remove
